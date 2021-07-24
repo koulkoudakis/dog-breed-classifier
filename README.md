@@ -10,6 +10,8 @@
 
 **Kaggle:** https://www.kaggle.com/sharomeethan/dog-breed-classifier
 
+**Colab:** https://colab.research.google.com/drive/1wLBBuwKx4a9w3jTectO0nzCzU9d3w_BB?usp=sharing
+
 <img src="dog-breed-classifier.png"
      alt="dog-breed-classifier"
      style="float: left; margin-right: 10px;" />
